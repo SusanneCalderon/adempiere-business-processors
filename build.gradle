@@ -61,7 +61,7 @@ java {
 
 
 def entityType = 'D'
-group = "io.github.adempiere"
+group = "com.erpya"
 version = System.getenv("ADEMPIERE_LIBRARY_VERSION") ?: "local-1.0.0"
 
 jar {
